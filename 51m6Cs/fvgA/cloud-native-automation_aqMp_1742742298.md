@@ -5,7 +5,6 @@
 In the context of this repo, a _Quickstart_ is a collection of knowledge assets with clear instruction on how to build and deploy to RHPAM  instances either in Openshift or in standalone EAP instances. Knowledge assets can BPMN, DMN, case management or Optaplanner models, Drools rules, Decision Tables, Business Objects, Kogito projects and every other model that is supported by the RHPAM execution engine. Knowledge assets could also be embedded in Spring Boot applications. Each quickstart should be independently consumable and user friendly. Each quickstart can either stand on its own or many could be part of a larger entity constituting a learning trail.
 
 Knowledge assets is not the only contribution that can be made in this repo. Other forms include tooling around RHPAM such as installation helpers, git hooks, automation using the REST APIs exposed by Business Central, KIE Server or Kogito applications, Smart Router and Complex Event Processing as well as architectural recommendations. 
-
 | NOTE: If you have some interesting material you would like to contribute as examples or references and they do not fit the above description, please get in touch with the repo maintainer  |
 | --- |
 
